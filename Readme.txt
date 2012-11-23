@@ -1,2 +1,4 @@
-Det h�r �r ett projekt d�r vi testar att jobba med git
+﻿Det här är ett projekt där vi testar att jobba med git
 och GitHub.
+
+Det här är ett projekt Readme.
